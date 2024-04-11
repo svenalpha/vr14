@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <h4>    client    no.01       12:50     11/04/2024 </h4>
+      <h4>    client    no.02       13:04     11/04/2024 </h4>
       <button onClick={getDataFromServer}>Access server using proxy</button>
       <p>data : {data}</p>
     </div>
